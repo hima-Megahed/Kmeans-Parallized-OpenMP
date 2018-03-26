@@ -1,0 +1,8 @@
+		 This is the Iris data set Output file for 5 clusters
+
+Cluster #	Coordinate 1	Coordinate 2	Coordinate 3	Coordinate 4
+0 	 6.9125 	 3.1 	 5.84687 	 2.13125
+1 	 6.23659 	 2.85854 	 4.80732 	 1.62195
+2 	 4.71304 	 3.12174 	 1.41739 	 0.191304
+3 	 5.52963 	 2.62222 	 3.94074 	 1.21852
+4 	 5.25556 	 3.67037 	 1.5037 	 0.288889
